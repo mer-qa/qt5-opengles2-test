@@ -1,3 +1,4 @@
+CONFIG += qt
 QT += sensors
 
 TEMPLATE = app
