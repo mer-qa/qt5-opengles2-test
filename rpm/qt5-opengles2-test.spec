@@ -8,6 +8,7 @@ License:	MIT
 URL:		https://github.com/thp/qt5-opengles2-test
 Source0:	%{name}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(Qt5Gui)
+BuildRequires:  pkgconfig(Qt5Sensors)
 
 %description
 This application is used to test OpenGL ES 2.0 rendering in
